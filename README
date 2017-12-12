@@ -1,0 +1,12 @@
+Abhishek Lolage
+111408034
+SPOS Process Scheduling Assignment in C with GNU Plot
+
+When each process scheduling algorithm is run, a .dat file is generated which contains parameters of Gantt Chart(actual CPU slots for the process).
+The .dat files are put in ganttChartScripts/dat. These files are input to GNU PLOT for plotting Gantt Charts.
+
+> Input file: input.txt
+
+> GNU PLOT Gantt charts and the procedure to make them is in gantt.pdf
+
+> Text based output is put in png format in Terminal Output folder.
